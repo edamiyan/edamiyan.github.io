@@ -16,7 +16,7 @@
     * Курс: 4
 * Coursera
     * [Основы HTML и CSS](#)
-    * [JavaScript, часть 1: основы и функции](#)
+    * [JavaScript, часть 1: основы и функции](https://coursera.org/share/97d0d0e127b6aed3acb1dc1be157da4d)
     * [Погружение в Python](#)
 
 ## Проекты

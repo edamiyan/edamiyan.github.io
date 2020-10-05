@@ -15,7 +15,7 @@
     * Статус: студент бакалавриата
     * Курс: 4
 * Coursera
-    * [Основы HTML и CSS](#)
+    * [Основы HTML и CSS](https://coursera.org/share/39c679d3e8c233f352905a5a013c91af)
     * [JavaScript, часть 1: основы и функции](https://coursera.org/share/97d0d0e127b6aed3acb1dc1be157da4d)
     * [Погружение в Python](#)
 

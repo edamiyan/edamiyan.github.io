@@ -36,7 +36,7 @@
 * Python, Django
 * Go, gin
 * C/C++, Qt
-* SQL
+* SQL, PostgreSQL
 * Linux
 * Docker
 * Ответственность и исполнительность

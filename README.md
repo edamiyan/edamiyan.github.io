@@ -19,6 +19,12 @@
 * Stepik [Программирование на Go](https://stepik.org/cert/1047660)
 
 ## Проекты
+* [hotel-manager-backend](https://github.com/edamiyan/hotel-manager-backend) (2021)
+  * Стек: _Go, Gin, PostgreSQL_
+  * Описание: Backend веб-приложения для управлением гостиничным бизнесом.
+* [hotel-manager-frontend](https://github.com/edamiyan/hotel-manager-frontend) (2021)
+  * Стек: _JavaScript, React, Bootstrap_
+  * Описание: Frontend веб-приложения для управлением гостиничным бизнесом.
 * [Buy-Sell-Car](https://github.com/Buy-Sell-Car) (2021)
   * Стек: _Python, Django, Vue.js_
   * Описание: SPA веб-приложение, курсовой проект по "Технологии командной разработки программного обеспечения".
@@ -35,8 +41,8 @@
 ## Навыки
 * Python, Django
 * Go, gin
+* JavaScript, React
 * C/C++, Qt
 * SQL, PostgreSQL
 * Linux
 * Docker
-* Ответственность и исполнительность

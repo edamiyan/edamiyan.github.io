@@ -40,7 +40,7 @@
 
 ## Навыки
 * Python, Django
-* Go, gin
+* Go, gin, echo
 * JavaScript, React
 * C/C++, Qt
 * SQL, PostgreSQL

@@ -21,7 +21,7 @@
 ## Проекты
 * [ozon-link-shortener](https://github.com/edamiyan/ozon-link-shortener) (2021)
   * Стек: _Go, echo, PostgreSQL, Docker_
-  * Описание: Тестовое задание OZON | Cервис сокращения URL.
+  * Описание: Тестовое задание OZON. Cервис сокращения URL.
 * [hotel-manager-frontend](https://github.com/edamiyan/hotel-manager-frontend) (2021)
   * Стек: _JavaScript, React, Bootstrap_
 * [hotel-manager-backend](https://github.com/edamiyan/hotel-manager-backend) (2021)
